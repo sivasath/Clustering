@@ -1,0 +1,2 @@
+1) implementations of hierarchial, kmeans and dbscan algorithm are in a folder called proj2_task1
+2) project2_task1_eval has all the dataset and python scripts that compute jaccard and rand index and pca.
